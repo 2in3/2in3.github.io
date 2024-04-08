@@ -285,31 +285,32 @@ overflow-x: hidden;
   
   @media screen and (max-width:576px){
     .gambar img{
-        width: 450px;
-        margin-left: 14px;
+        width: 300px;
+        margin-left: 8px;
     }
     .nama{
         margin-left: 60px;
-        width: 340px;
+        width: 300px;
     }
     .anggota{
-        margin-left: 16px;
+        margin-left: 10px;
+        width:300px
     }
     .latarbelakang{
-        margin-left: 20px;
-        width: 450px;
+        margin-left: 10px;
+        width: 350px;
     }
     .alternatif{
-        margin-left: 20px;
-        width: 450px;
+        margin-left: 10px;
+        width: 350px;
         margin-top: 30px;
-        height: 510px;
+        height: 610px;
     }
     .alternatif h2{
         font-size: 50px;
     }
     .next{
-        margin-left: 100px;
+        margin-left: 10px;
         margin-top: 50px;
     }
     .penjelasanproduk{
