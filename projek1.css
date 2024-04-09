@@ -293,7 +293,7 @@ overflow-x: hidden;
       width: 310px;
   }
   .nama h1{
-    font-size:30px;
+    font-size:25px;
     margin-left: 10px;
   }
   .anggota{
@@ -308,6 +308,9 @@ overflow-x: hidden;
       width: 324px;
   
   }
+  .latarbelakang h2{
+    font-size:25px;
+  }
   .alternatif{
       margin-left: 17px;
       width: 324px;
@@ -315,10 +318,10 @@ overflow-x: hidden;
       height: 710px;
   }
   .alternatif h2{
-      font-size: 50px;
+      font-size: 25px;
   }
   .next{
-      margin-left: 10px;
+      margin-left: 20px;
       margin-top: 50px;
   }
   .penjelasanproduk{
